@@ -1,0 +1,88 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    background-image:url("../images/fleure.png") ;
+    background-attachment: fixed;
+    background-repeat:round;
+    
+    text-align: center;
+    border: 0.5px black solid;
+    display: inline-block;
+    width: 100%;
+    }
+
+header {
+    border-radius: 8px ;
+    background-color: black;
+    color: white;
+    background-image: url("https://bigbudsmag.com/wp-content/uploads/shutterstock_38068528.jpg");
+    background-attachment: fixed;
+    border-spacing: 10px;
+
+    border: 0.5px black solid;
+    display: inline-block;
+    width: 100%;
+    }
+
+a {
+    color:white;
+}
+
+h2 {
+    color:purple;
+    text-align: center;
+}
+
+h3 {
+    color:forestgreen;
+}
+
+P {
+     text-align: center;
+    }   
+
+table {
+    border-width: thick;
+    border: 2px dotted;
+    border-radius: 25px;
+    border-spacing: 10px;
+    padding: 10px;
+
+    text-align: center;
+    border: 0.5px black solid;
+    /*display: inline-block;*/
+    
+    width: 100%;
+    }
+    
+table thead tr, table tbody tr, td {
+    text-align: center;
+    border: 0.5px black solid;
+    display: inline-block;
+}   
+    
+form {
+    border-width: medium;
+    border: 1px dashed;
+    text-align: center;
+    border-spacing: 10px;
+    border-radius: 25px;
+    padding: 10px;
+
+    border: 0.5px black solid;
+    display: inline-block;
+    width: 100%;
+    }
+
+section {
+    border-width: thick;
+    border: 2px dotted;
+    border-radius: 25px;
+    border-spacing: 10px;
+    padding: 10px;
+
+    text-align: center;
+    border: 0.5px black solid;
+    display: inline-block;
+    width: 100%;
+    }
